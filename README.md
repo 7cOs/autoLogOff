@@ -11,7 +11,8 @@ User simply double-clicks the icon to sign out of Windows -- obviating the need 
 Future iterations will consider the following solutions for auto sign-out activation.
 <ul>
   <li>Recognised Speech Synthesis (RSS)</li>
-  <li>Facial Recognition with <a href='#' title='Recognised Speech Synthesis'>RSS</a></li>
+  <li>Facial Recognition with <a href='#' title='Recognised Speech Synthesis'>RSS</a> 
+    <a href='#' title='Facial Recognition & Recognised Speech Synthesis'>(FR-RSS)</a></li>
   <li>Mental Telepathy (MT)</li>
   <li>Facial Recognition with <span>RSS</span></li>
 </ul>
