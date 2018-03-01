@@ -12,7 +12,6 @@ Future iterations will consider the following solutions for auto sign-out activa
 <ul>
   <li>Recognised Speech Synthesis (RSS)</li>
   <li>Facial Recognition with <a href='#' title='Recognised Speech Synthesis'>RSS</a> 
-    <a href='#' title='Facial Recognition & Recognised Speech Synthesis'>(FR-RSS)</a></li>
-  <li>Mental Telepathy (MT)</li>
-  <li>Facial Recognition with <span>RSS</span></li>
+    (<a href='#' title='Facial Recognition + Recognised Speech Synthesis'>FR-RSS</a>)</li>
+  <li><a href='#' title='Facial Recognition + Recognised Speech Synthesis'>FR+RSS</a> with Telepathic Transcendence (<a href='#' title='Mental Telepathy'>MT</a>) - <a href='#' title='Facial Recognition + Recognised Speech Synthesis + Mental Telepathy'>FR-RSS+MT</a></li>
 </ul>
