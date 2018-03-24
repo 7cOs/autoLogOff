@@ -1,7 +1,7 @@
 # AutoSignOut
 
 ## Description
-Sign out of Windows OS automatically
+Sign out of Windows OS
 
 ## Purpose
 Expedites Windows OS sign out by implementing that process via a simple icon (.jar (exe) file) stored on the user's desktop. 
